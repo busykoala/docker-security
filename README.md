@@ -20,6 +20,7 @@ nc -nvlp 8888 > example
 
 - [0xffsec.com](https://0xffsec.com/handbook/exfiltration/)
 - [Hacking Articles](https://www.hackingarticles.in/data-exfiltration-using-linux-binaries/)
+- [GTFOBins](https://gtfobins.github.io)
 
 ## Exfiltrate possibilities
 
